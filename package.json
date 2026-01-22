@@ -1,0 +1,43 @@
+{
+  "name": "hl7-data-quality",
+  "version": "1.0.0",
+  "description": "A comprehensive JavaScript library for automated data quality analysis of HL7 v2.x messages",
+  "main": "src/hl7DataQualityService.js",
+  "type": "module",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "hl7",
+    "data-quality",
+    "quality-analysis",
+    "healthcare",
+    "medical-records",
+    "hl7-v2",
+    "data-validation",
+    "quality-assurance",
+    "compliance",
+    "adt",
+    "interoperability"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/hl7-data-quality.git"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "hl7-parser": "^1.0.0"
+  },
+  "peerDependencies": {
+    "hl7-parser": "^1.0.0"
+  },
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE"
+  ]
+}
