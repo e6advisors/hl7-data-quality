@@ -439,10 +439,10 @@ For issues, questions, or contributions, please open an issue on the GitHub repo
 
 ## Related Projects
 
-- [hl7-parser](https://github.com/yourusername/hl7-parser) - HL7 message parser (required dependency)
-- [hl7-deidentification](https://github.com/yourusername/hl7-deidentification) - HL7 de-identification library
-- [hl7-to-fhir](https://github.com/yourusername/hl7-to-fhir) - HL7 to FHIR converter
-- [fhir-to-hl7](https://github.com/yourusername/fhir-to-hl7) - FHIR to HL7 converter
+- [hl7-parser](https://github.com/e6advisors/hl7-parser) - HL7 message parser (required dependency)
+- [hl7-deidentification](https://github.com/e6advisors/hl7-deidentification) - HL7 de-identification library
+- [hl7-to-fhir](https://github.com/e6advisors/hl7-to-fhir) - HL7 to FHIR converter
+- [fhir-to-hl7](https://github.com/e6advisors/fhir-to-hl7) - FHIR to HL7 converter
 
 ## Version History
 
